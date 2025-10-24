@@ -42,3 +42,7 @@ Metrics: Accuracy, F1 Score, Recall, Confusion Matrix Analysis
 ### Key Learning
 This project demonstrated how **predictive analytics can support student retention strategies** by identifying risk early.  
 It also reinforced advanced skills in **model tuning, evaluation, and interpretability** within confidential data environments.  
+
+---
+
+🔗 [⬅️ Back to Main Portfolio](../README.md)
