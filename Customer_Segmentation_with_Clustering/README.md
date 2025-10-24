@@ -1,27 +1,43 @@
-# 🧩 Customer Segmentation with Clustering
+# 👥 Customer Segmentation with Clustering
 
-### Objective  
-Segment e-commerce customers based on purchasing patterns to identify valuable groups for targeted marketing and retention strategies.
+> 🧩 This project was completed as part of the **University of Cambridge Data Science & Machine Learning Career Accelerator (2025)**.  
+> It applies unsupervised learning to segment customers based on spending and engagement behaviours.
 
-### Overview  
-This project applied unsupervised learning techniques to cluster customers using key behavioral and transactional features. By grouping customers according to Recency, Frequency, Monetary value (RFM), and unit cost, the analysis helped reveal distinct patterns in purchase behavior.
+---
 
-### Approach  
-- Cleaned and preprocessed transactional data for missing values and scaling.  
-- Engineered RFM features and calculated total spend per customer.  
-- Applied **K-Means** and **Hierarchical Clustering** to identify customer segments.  
-- Used **PCA** and **t-SNE** to visualise the separability of clusters.  
-- Compared silhouette scores to determine optimal cluster numbers.
+### Objective
+To identify distinct customer groups using unsupervised clustering methods, enabling data-driven marketing strategies and personalised engagement.  
+The dataset simulates transactional records, including spending frequency, recency, and monetary value metrics.
 
-### Tools & Libraries  
+---
+
+### Approach
+- Performed **data cleaning and standardisation** to prepare numeric features for clustering.  
+- Applied **feature engineering** to derive Recency–Frequency–Monetary (RFM) and cost-based metrics.  
+- Trained multiple clustering algorithms to explore segmentation patterns:
+  - **K-Means Clustering**
+  - **Hierarchical (Agglomerative) Clustering**
+  - **DBSCAN (Density-Based Spatial Clustering)**
+- Used **Elbow Method** and **Silhouette Score** to determine optimal cluster count.  
+- Visualised separability using **PCA** and **t-SNE**, highlighting distinct behavioural groups.
+
+---
+
+### Tools & Techniques
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-Jupyter Notebook for analysis and visualisation.
+Models: K-Means, Hierarchical Clustering, DBSCAN  
+Feature Engineering: RFM metrics, standard scaling  
 
-### Results  
-- Identified 3–4 meaningful customer groups (e.g., high-value, frequent, and at-risk customers).  
-- Highlighted differences in spending frequency and recency that can guide loyalty campaigns.  
-- Demonstrated how unsupervised models can drive segmentation for targeted marketing strategies.
+---
 
-### Key Learnings  
-This project reinforced the importance of **feature scaling**, **cluster validation**, and **visualisation** in understanding customer heterogeneity.  
-It also illustrated the link between statistical clustering and actionable business decisions.
+### Results
+- Identified **three primary customer clusters** based on recency, frequency, and spending patterns.  
+- Cluster profiles revealed clear behavioural differences between high-value, occasional, and inactive customers.  
+- Visual analysis confirmed strong separation and interpretability, validating the clustering pipeline.  
+- The findings could support **targeted promotions**, **churn prevention**, and **loyalty strategy design**.
+
+---
+
+### Key Learning
+This project strengthened understanding of **unsupervised learning, feature scaling, and cluster validation**.  
+It demonstrated how clustering techniques can uncover actionable marketing insights and guide decision-making in customer analytics.  
