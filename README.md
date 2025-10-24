@@ -63,8 +63,8 @@ Applied BERTopic, Gensim LDA, and BERT emotion analysis to customer reviews to u
 
 ## 📫 Connect with Me
 💼 [LinkedIn](https://www.linkedin.com/in/danyal-hussain-795648258/)  
-📂 [GitHub Portfolio](#)  
-📧 [Your Email]
+📂 [GitHub Portfolio](https://github.com/ds-hus0601/DanyalHussain-Portfolio)  
+📧 [Email](ds.hus0601@gmail.com)
 
 ---
 
