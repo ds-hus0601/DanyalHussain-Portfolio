@@ -41,3 +41,7 @@ Models: PCA, Isolation Forest, One-Class SVM
 This project reinforced practical skills in **unsupervised learning and model evaluation for rare-event detection**.  
 It demonstrated how combining PCA with tree-based and boundary-based anomaly detectors can uncover system faults without labelled data.  
 The results showcase how data-driven maintenance systems can significantly enhance **predictive reliability and operational safety**.
+
+---
+
+🔗 [⬅️ Back to Main Portfolio](../README.md)
