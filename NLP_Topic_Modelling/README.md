@@ -1,44 +1,60 @@
 # 🧠 Applying NLP for Topic Modelling in a Real-Life Context (Confidential Client Dataset)
 
-> ⚠️ This notebook presents an anonymised version of an applied data science project originally completed under NDA with a UK fitness organisation.  
-> All datasets here are synthetic or publicly simulated for demonstration purposes only.
-
-### Objective
-To uncover **customer satisfaction drivers** and **pain points** using advanced **natural language processing (NLP)** techniques on anonymised review data.  
-The goal was to help the client improve retention, service quality, and reputation management through data-driven insight.
+> ⚠️ This notebook presents an anonymised version of an applied data science project originally completed under NDA with a **UK-based fitness organisation (FastGym – Confidential Client)**.  
+> All datasets in this repository are **synthetic or publicly simulated** for demonstration purposes only.
 
 ---
 
-### Approach
-#### 💬 NLP Topic Modelling and Emotion Analysis
-- Applied **BERTopic** and **Gensim LDA** to extract dominant themes from anonymised customer reviews.  
-- Used **BERT emotion classification** to detect emotional intensity (anger, sadness, joy, etc.) and isolate high-risk complaints.  
-- Leveraged **Falcon-7B-Instruct** for prompt-based summarisation and actionable recommendation generation.  
-- Conducted **comparative model evaluation** to assess interpretability, coherence, and business utility across NLP techniques.  
-- Ensured full compliance with confidentiality requirements by anonymising all text fields.
+### 🎯 Objective
+
+To uncover **customer satisfaction drivers** and **pain points** using advanced **Natural Language Processing (NLP)** techniques applied to anonymised gym review data.  
+The aim was to help the client improve **member retention**, **service quality**, and **brand reputation** through data-driven insights.
 
 ---
 
-### Tools & Techniques
-Python (BERTopic, Gensim, BERT, Falcon-7B, Pandas, NumPy, Matplotlib, Seaborn)
+### 🧩 Approach
+
+#### 💬 NLP Topic Modelling & Emotion Analysis
+- Applied **BERTopic** and **Gensim LDA** to extract and interpret dominant themes from anonymised customer reviews.  
+- Used **BERT-based emotion classification** to quantify emotional tone (*anger, sadness, joy, fear*) and isolate high-risk dissatisfaction.  
+- Employed **Falcon-7B-Instruct** to summarise member feedback and generate **actionable business recommendations** via prompt-based inference.  
+- Performed **comparative evaluation** of all models based on interpretability, coherence, and relevance to operational decision-making.  
+- Maintained **full confidentiality compliance**, anonymising all textual and location identifiers.
 
 ---
 
-### Results
-- Identified recurring **customer experience issues** such as hygiene, equipment maintenance, access failures, and staff behaviour.  
-- Mapped **emotional intensity** across reviews to flag reputational risks and churn triggers.  
-- Generated **actionable business recommendations** for operations, maintenance, and customer engagement teams.  
-- Demonstrated the comparative value of **BERTopic, LDA, and generative LLMs** in extracting interpretable insights from unstructured feedback.
+### 🛠️ Tools & Techniques
+
+**Python Libraries:**  
+BERTopic, Gensim, Transformers (BERT), Falcon-7B, Pandas, NumPy, Matplotlib, Seaborn  
+
+**Analytical Techniques:**  
+Topic Modelling • Emotion Detection • LLM Summarisation • Sentiment Correlation • Comparative NLP Evaluation
 
 ---
 
-### Key Learning
-This project highlights how **multi-layered NLP analysis** — combining clustering, emotion detection, and LLM summarisation — can reveal not just what customers say, but **how they feel**.  
-It reinforced expertise in topic modelling, model comparison, and translating technical findings into strategic business insights under NDA conditions.
+### 📊 Results & Insights
+
+- Identified six recurrent operational pain points: **hygiene**, **equipment reliability**, **staff responsiveness**, **digital access issues**, **overcrowding**, and **environmental discomfort**.  
+- Quantified **emotional intensity** across reviews, highlighting anger and sadness as key churn indicators.  
+- Validated cross-model consistency — all approaches converged on the same **core dissatisfaction themes**.  
+- Produced **clear, data-backed recommendations** for branch management, app development, and maintenance scheduling.  
+- Demonstrated the complementary value of **BERTopic (contextual clustering)**, **LDA (lexical validation)**, and **Falcon (strategic synthesis)** in operational insight generation.
 
 ---
 
-⭐ *All data and names have been anonymised. The structure, methodology, and visualisations reflect genuine analytical processes without exposing sensitive or proprietary information.*
+### 🧠 Key Learning
+
+This project demonstrates how **multi-layered NLP pipelines** — integrating clustering, transformer-based emotion analysis, and generative LLMs — can extract both **semantic structure** and **emotional nuance** from unstructured customer feedback.  
+It strengthened expertise in:
+- Topic modelling and transformer-based NLP
+- Model interpretability and validation
+- Translating technical findings into **strategic business recommendations**
+- Working under **NDA conditions** with anonymised data governance
+
+---
+
+⭐ *All names, locations, and raw data have been replaced with anonymised equivalents. The structure, analytical flow, and visual outputs accurately reflect the original client project while protecting confidentiality.*
 
 ---
 
