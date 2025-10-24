@@ -53,6 +53,15 @@ Applied BERTopic, Gensim LDA, and BERT emotion analysis to customer reviews to u
 
 ---
 
+### 🧩 Customer Segmentation with Clustering
+Segmented e-commerce customers using Recency, Frequency, Monetary (RFM) and cost-based features to inform marketing strategy.  
+Compared K-Means and Hierarchical Clustering, visualised group separability with PCA and t-SNE.
+
+🔹 *Tech:* Python, Scikit-learn, Matplotlib  
+🔹 *Skills:* Clustering, feature engineering, dimensionality reduction, customer analytics
+
+---
+
 ## 🛠️ Tools and Technologies
 **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, Keras), SQL  
 **Visualisation:** Power BI, Tableau, Matplotlib, Seaborn  
