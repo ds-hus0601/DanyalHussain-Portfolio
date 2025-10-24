@@ -2,7 +2,7 @@
 
 I'm a data analyst based in London, with a background in biomedical sciences and a certification in Data Science & Machine Learning from the University of Cambridge. I enjoy using Python, SQL, and Power BI to turn complex datasets into clear, actionable insights.
 
-This portfolio showcases a selection of my applied projects from Cambridge and beyond — covering NLP, predictive modelling, and anomaly detection across diverse domains.
+This portfolio showcases a selection of my applied projects from Cambridge and beyond – covering NLP, predictive modelling, and anomaly detection across diverse domains.
 
 ---
 
@@ -64,8 +64,8 @@ Applied BERTopic, Gensim LDA, and BERT emotion analysis to customer reviews to u
 ## 📫 Connect with Me
 💼 [LinkedIn](https://www.linkedin.com/in/danyal-hussain-795648258/)  
 📂 [GitHub Portfolio](https://github.com/ds-hus0601/DanyalHussain-Portfolio)  
-📧 [Email](ds.hus0601@gmail.com)
+📧 [Email](mailto:ds.hus0601@gmail.com)
 
 ---
 
-⭐️ *Thanks for visiting my portfolio — feedback and collaborations are always welcome!*
+⭐️ *Thanks for visiting my portfolio – feedback and collaborations are always welcome!*
