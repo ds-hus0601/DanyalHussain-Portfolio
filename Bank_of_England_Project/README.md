@@ -38,3 +38,7 @@ Power BI for interactive visualisation and stakeholder reporting
 ### Key Learning
 This project showed how **NLP can enhance financial monitoring** by quantifying qualitative tone.  
 It strengthened practical skills in **sentiment analysis, time-series integration, and dashboard storytelling**, bridging the gap between textual data and prudential insight.  
+
+---
+
+🔗 [⬅️ Back to Main Portfolio](../README.md)
