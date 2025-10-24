@@ -36,15 +36,6 @@ Evaluated accuracy, F1 score, and recall, and offered practical retention strate
 
 ---
 
-### ✉️ Spam Classification
-Developed and tuned logistic regression and deep learning models to classify spam vs. legitimate messages.  
-Compared model performance and trade-offs between complexity and interpretability.
-
-🔹 *Tech:* Python, Scikit-learn, TensorFlow  
-🔹 *Skills:* Text classification, feature engineering, deep learning
-
----
-
 ### 🔍 NLP Topic Modelling (Confidential Client Dataset)
 Applied BERTopic, Gensim LDA, and BERT emotion analysis to customer reviews to uncover key experience themes and sentiment trends.  
 (Conducted under NDA, so dataset and company name omitted.)
@@ -63,21 +54,11 @@ Compared K-Means and Hierarchical Clustering, visualised group separability with
 
 ---
 
-### 🌳 Decision Trees for Classification
-Built and evaluated Decision Tree and Random Forest models to classify tabular data, focusing on interpretability and feature importance.  
-Compared performance metrics to explore overfitting and model generalisation.
+## 🔬 Portfolio Mini Projects
+A collection of focused, concept-based experiments completed during the University of Cambridge Data Science & Machine Learning Career Accelerator.  
+These demonstrate technical mastery in model tuning, neural networks, decision trees, and regularisation techniques.
 
-🔹 *Tech:* Python, Scikit-learn, Matplotlib  
-🔹 *Skills:* Supervised learning, feature importance, model evaluation
-
----
-
-### 📈 Neural Network Regression
-Developed and tuned a feed-forward neural network for regression tasks.  
-Explored learning rate effects, activation functions, and loss convergence using MAE and RMSE as evaluation metrics.
-
-🔹 *Tech:* Python, TensorFlow, Scikit-learn  
-🔹 *Skills:* Neural networks, regression analysis, model optimisation
+📂 [Explore Mini Projects →](./Portfolio_Mini_Projects)
 
 ---
 
