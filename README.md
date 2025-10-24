@@ -36,7 +36,7 @@ Evaluated accuracy, F1 score, and recall, and offered practical retention strate
 
 ---
 
-### 🔍 [NLP Topic Modelling (Confidential Client Dataset)](./NLP_Topic_Modelling_and_TimeSeries_(Anonymised)/README.md)
+### 🔍 [NLP Topic Modelling (Confidential Client Dataset)](./NLP_Topic_Modelling/README.md)
 Applied BERTopic, Gensim LDA, and BERT emotion analysis to customer reviews to uncover key experience themes and sentiment trends.  
 (Conducted under NDA, so dataset and company name omitted.)
 
