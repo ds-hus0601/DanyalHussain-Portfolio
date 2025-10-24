@@ -1,34 +1,67 @@
-# Portfolio Mini-Projects
+# 🧩 Portfolio Mini Projects
 
-### Objective
-Explore and test a range of data-science techniques through small, focused experiments covering anomaly detection, hyperparameter tuning, and regularisation.
-
----
-
-### 🧮 Anomaly Detection Methods Comparison
-Tested and compared unsupervised learning techniques including IQR, PCA, Isolation Forest, and One-Class SVM for identifying outliers in numeric datasets.
-
-🔹 *Tech:* Python, Scikit-learn, NumPy, Matplotlib  
-🔹 *Skills:* Unsupervised learning, model comparison, feature scaling
+This collection highlights a series of focused, technical experiments completed as part of the **University of Cambridge Data Science & Machine Learning Career Accelerator (2025)** and extended personal explorations.  
+Each mini-project demonstrates mastery of a specific data science concept — from model optimisation and time-series forecasting to clustering and decision-tree interpretability.
 
 ---
 
-### ⚙️ Hyperparameter Tuning (Spambase Dataset)
-Implemented grid search to optimise neural-network parameters such as learning rate, epochs, and batch size using the Spambase dataset.
+## 🌳 Decision Trees for Classification
+Developed and evaluated Decision Tree and Random Forest models to classify tabular data, exploring interpretability and model generalisation.  
+Visualised decision boundaries and analysed feature importance to understand key predictive variables.
+
+🔹 *Tech:* Python, Scikit-learn, Matplotlib  
+🔹 *Skills:* Supervised learning, feature importance, model evaluation
+
+---
+
+## 📈 Neural Network Regression
+Built and tuned a feed-forward neural network for regression tasks, optimising learning rate and activation functions.  
+Assessed performance using MAE and RMSE, and plotted loss curves to visualise convergence behaviour.
+
+🔹 *Tech:* Python, TensorFlow, Scikit-learn  
+🔹 *Skills:* Neural networks, regression analysis, model tuning
+
+---
+
+## ⚙️ Neural Network Optimisation & Regularisation
+Investigated dropout layers, L2 regularisation, and optimiser choice (Adam vs RMSProp) to reduce overfitting in small datasets.  
+Compared validation accuracy across tuning configurations and summarised convergence trends.
 
 🔹 *Tech:* Python, TensorFlow, Keras  
-🔹 *Skills:* Model tuning, validation strategy, automation
+🔹 *Skills:* Regularisation, hyperparameter tuning, model validation
 
 ---
 
-### 🧠 Regularisation Experiments
-Assessed dropout rates and L2 penalties to find the optimal balance between accuracy and generalisation in small-sample deep-learning models.
+## ⏳ Time Series Forecasting for Sales & Demand
+Applied time-series analysis to forecast sales and demand patterns using moving averages and decomposition.  
+Evaluated performance through residual analysis and explored seasonality trends to support data-driven planning.
 
-🔹 *Tech:* Python, TensorFlow, Keras  
-🔹 *Skills:* Regularisation, model evaluation, overfitting prevention
+🔹 *Tech:* Python, Pandas, Matplotlib  
+🔹 *Skills:* Time-series forecasting, data visualisation, trend analysis
 
 ---
 
-### Key Learning
-These experiments collectively strengthened understanding of model robustness, interpretability, and the trade-offs between complexity and performance.
+## 👥 Customer Segmentation with Clustering *(Extended Concept)*
+Expanded on clustering foundations by testing Recency–Frequency–Monetary (RFM) segmentation in small synthetic datasets.  
+Compared K-Means, DBSCAN, and Hierarchical Clustering for different data distributions.
 
+🔹 *Tech:* Python, Scikit-learn, Seaborn  
+🔹 *Skills:* Clustering, unsupervised learning, data scaling
+
+---
+
+## 🧠 Key Learnings
+- Applied both **supervised and unsupervised** machine learning methods for predictive and exploratory tasks.  
+- Enhanced understanding of **model interpretability**, **hyperparameter optimisation**, and **regularisation techniques**.  
+- Strengthened practical workflow in **Jupyter**, **Git**, and **Python-based data science pipelines**.
+
+---
+
+## 🛠️ Tools and Libraries
+**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn)  
+**Focus Areas:** Model Development, Forecasting, Regularisation, Clustering  
+**Environment:** Jupyter, Colab, GitHub  
+
+---
+
+⭐ *These mini-projects represent the experimental foundation that underpins my larger applied work — each reinforcing technical depth, adaptability, and data storytelling.*
