@@ -41,3 +41,7 @@ Feature Engineering: RFM metrics, standard scaling
 ### Key Learning
 This project strengthened understanding of **unsupervised learning, feature scaling, and cluster validation**.  
 It demonstrated how clustering techniques can uncover actionable marketing insights and guide decision-making in customer analytics.  
+
+---
+
+🔗 [⬅️ Back to Main Portfolio](../README.md)
