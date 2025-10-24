@@ -1,37 +1,40 @@
 # 🏦 Bank of England – Financial Sentiment & Prudential Metrics
 
-> 🧩 This project was completed as part of a group during the **University of Cambridge Data Science & Machine Learning Career Accelerator (2025)**.  
-> The materials here reflect my individual contribution to the analysis and visualisation components.
+> 🧩 This project was completed as part of the **University of Cambridge Data Science & Machine Learning Career Accelerator (2025)** in collaboration with the **Bank of England Employer Project**.  
+> It explores how sentiment and prudential data interact across major UK banks using advanced NLP and financial analytics.
+
+---
 
 ### Objective
-Analyse earnings call transcripts from major UK banks using Natural Language Processing (NLP) to measure sentiment and relate managerial tone to prudential metrics such as CET1, NSFR, LCR, and LDR.  
-The goal was to identify whether executive communication tone aligned with financial stability indicators.
+To analyse quarterly earnings call transcripts from major UK banks and link executive and analyst sentiment to prudential metrics such as **CET1**, **NSFR**, **LCR**, and **LDR**.  
+The goal was to identify patterns in financial tone that correspond to stability, liquidity, and lending confidence.
 
 ---
 
 ### Approach
-- Applied **FinBERT** and **Aspect-Based Sentiment Analysis (ABSA)** to classify tone across executives and analysts.  
-- Aligned sentiment trends with prudential metrics (CET1, NSFR, LCR, LDR) using pooled and per-bank time-series data.  
-- Conducted rolling three-quarter correlation analysis to identify lead–lag sentiment patterns.  
-- Developed **Power BI dashboards** visualising sentiment vs. prudential ratio dynamics.  
-- Presented results to Bank of England representatives with interpretive insights on regulatory tone monitoring.
+- Used **FinBERT** and **Aspect-Based Sentiment Analysis (ABSA)** to measure tone across earnings calls.  
+- Extracted executive and analyst dialogue separately for comparative sentiment analysis.  
+- Integrated sentiment scores with prudential metrics using **temporal alignment** (pooled and per-bank).  
+- Conducted **correlation and rolling-window analysis** to examine sentiment–metric interactions.  
+- Visualised findings with **Power BI** dashboards and Python-based charts for interpretability.  
 
 ---
 
 ### Tools & Techniques
-Python (Pandas, NumPy, FinBERT, Matplotlib, Seaborn)  
-Power BI for interactive trend visualisation and presentation.
+Python (Pandas, NumPy, Matplotlib, Seaborn, FinBERT, Scikit-learn)  
+Power BI for interactive visualisation and stakeholder reporting  
 
 ---
 
 ### Results
-- Found measurable tone shifts between executive and analyst sentiment linked to liquidity and capital strength.  
-- Observed **positive correlation (~+0.11)** between Lending/Deposit Ratios (LDR) and overall sentiment, suggesting optimistic tone during active lending phases.  
-- Identified cautious language coinciding with CET1 capital build periods.  
-- Delivered clear, explainable visualisations of tone–metric convergence.
+- Identified consistent differences between **executive optimism** and **analyst caution**.  
+- Observed a **positive correlation between NSFR and sentiment** (indicating stability-linked confidence).  
+- Detected mild **negative sentiment association with CET1** during capital-building phases.  
+- Demonstrated how tone patterns can serve as early indicators of financial posture shifts.  
+- Presented results to Bank of England representatives as part of a 15-minute technical presentation.
 
 ---
 
 ### Key Learning
-This project demonstrated the power of **financial NLP** in contextualising regulatory and prudential data.  
-It reinforced my ability to integrate **language models with quantitative analysis**, communicate technical findings clearly, and collaborate within a multi-disciplinary data science team.
+This project showed how **NLP can enhance financial monitoring** by quantifying qualitative tone.  
+It strengthened practical skills in **sentiment analysis, time-series integration, and dashboard storytelling**, bridging the gap between textual data and prudential insight.  
