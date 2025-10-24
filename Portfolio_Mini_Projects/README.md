@@ -1,7 +1,7 @@
 # 🧩 Portfolio Mini Projects
 
 This collection highlights a series of focused, technical experiments completed as part of the **University of Cambridge Data Science & Machine Learning Career Accelerator (2025)** and extended personal explorations.  
-Each mini-project demonstrates mastery of a specific data science concept — from model optimisation and time-series forecasting to clustering and decision-tree interpretability.
+Each mini-project demonstrates mastery of a specific data science concept — from model optimisation and clustering to neural network performance tuning and interpretability.
 
 ---
 
@@ -32,15 +32,6 @@ Compared validation accuracy across tuning configurations and summarised converg
 
 ---
 
-## ⏳ Time Series Forecasting for Sales & Demand
-Applied time-series analysis to forecast sales and demand patterns using moving averages and decomposition.  
-Evaluated performance through residual analysis and explored seasonality trends to support data-driven planning.
-
-🔹 *Tech:* Python, Pandas, Matplotlib  
-🔹 *Skills:* Time-series forecasting, data visualisation, trend analysis
-
----
-
 ## 👥 Customer Segmentation with Clustering *(Extended Concept)*
 Expanded on clustering foundations by testing Recency–Frequency–Monetary (RFM) segmentation in small synthetic datasets.  
 Compared K-Means, DBSCAN, and Hierarchical Clustering for different data distributions.
@@ -59,7 +50,7 @@ Compared K-Means, DBSCAN, and Hierarchical Clustering for different data distrib
 
 ## 🛠️ Tools and Libraries
 **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn)  
-**Focus Areas:** Model Development, Forecasting, Regularisation, Clustering  
+**Focus Areas:** Model Development, Regularisation, Clustering, Interpretability  
 **Environment:** Jupyter, Colab, GitHub  
 
 ---
