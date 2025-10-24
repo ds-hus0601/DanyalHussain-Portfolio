@@ -42,3 +42,7 @@ It strengthened skills in text processing, trend analysis, and ethical handling 
 ---
 
 ⭐ *All data and names have been anonymised. The structure, methodology, and visualisations reflect genuine analytical processes without exposing sensitive or proprietary information.*
+
+---
+
+🔗 [⬅️ Back to Main Portfolio](../README.md)
