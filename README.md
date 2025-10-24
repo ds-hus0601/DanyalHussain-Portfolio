@@ -9,7 +9,7 @@ This portfolio showcases a selection of my applied projects from Cambridge and b
 
 ## 🧠 Featured Projects
 
-### 🏦 Bank of England – Financial Sentiment & Prudential Metrics
+### 🏦 [Bank of England – Financial Sentiment & Prudential Metrics](./Bank_of_England_Project/README.md)
 Analysed earnings call transcripts from major UK banks using FinBERT and Aspect-Based Sentiment Analysis (ABSA).  
 Linked tone to prudential metrics (CET1, NSFR, LCR, LDR) and visualised temporal correlations in Power BI dashboards.
 
@@ -18,7 +18,7 @@ Linked tone to prudential metrics (CET1, NSFR, LCR, LDR) and visualised temporal
 
 ---
 
-### ⚙️ Ship Engine Anomaly Detection
+### ⚙️ [Ship Engine Anomaly Detection](./Ship_Engine_Anomaly_Detection/README.md)
 Applied PCA, Isolation Forest, and One-Class SVM to identify abnormal sensor patterns in maritime engine data.  
 Provided early-warning visualisations and performance monitoring dashboards.
 
@@ -27,7 +27,7 @@ Provided early-warning visualisations and performance monitoring dashboards.
 
 ---
 
-### 🎓 Student Dropout Prediction
+### 🎓 [Student Dropout Prediction](./Student_Dropout_Prediction/README.md)
 Built predictive models (XGBoost, Neural Networks) to identify students at risk of dropout using engagement and academic data.  
 Evaluated accuracy, F1 score, and recall, and offered practical retention strategies.
 
@@ -36,7 +36,7 @@ Evaluated accuracy, F1 score, and recall, and offered practical retention strate
 
 ---
 
-### 🔍 NLP Topic Modelling (Confidential Client Dataset)
+### 🔍 [NLP Topic Modelling (Confidential Client Dataset)](./NLP_Topic_Modelling_and_TimeSeries_(Anonymised)/README.md)
 Applied BERTopic, Gensim LDA, and BERT emotion analysis to customer reviews to uncover key experience themes and sentiment trends.  
 (Conducted under NDA, so dataset and company name omitted.)
 
@@ -45,7 +45,7 @@ Applied BERTopic, Gensim LDA, and BERT emotion analysis to customer reviews to u
 
 ---
 
-### 🧩 Customer Segmentation with Clustering
+### 🧩 [Customer Segmentation with Clustering](./Customer_Segmentation_with_Clustering/README.md)
 Segmented e-commerce customers using Recency, Frequency, and Monetary (RFM) and cost-based features to inform marketing strategy.  
 Compared K-Means and Hierarchical Clustering, visualised group separability with PCA and t-SNE.
 
@@ -54,11 +54,9 @@ Compared K-Means and Hierarchical Clustering, visualised group separability with
 
 ---
 
-## 🔬 Portfolio Mini Projects
+## 🔬 [Portfolio Mini Projects →](./Portfolio_Mini_Projects/README.md)
 A collection of focused, concept-based experiments completed during the University of Cambridge Data Science & Machine Learning Career Accelerator.  
 These demonstrate technical mastery in model tuning, neural networks, decision trees, and regularisation techniques.
-
-📂 [Explore Mini Projects →](./Portfolio_Mini_Projects)
 
 ---
 
