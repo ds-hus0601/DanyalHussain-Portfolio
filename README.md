@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Danyal Hussain
 
-I'm a data analyst based in London, with a background in biomedical sciences and a certification in Data Science & Machine Learning from the University of Cambridge. I enjoy using Python, SQL, and Power BI to turn complex datasets into clear, actionable insights.
+I'm a data analyst based in London, with a background in biomedical sciences and a certification in Data Science & Machine Learning from the University of Cambridge.  
+I enjoy using Python, SQL, and Power BI to turn complex datasets into clear, actionable insights.
 
 This portfolio showcases a selection of my applied projects from Cambridge and beyond – covering NLP, predictive modelling, and anomaly detection across diverse domains.
 
@@ -54,7 +55,7 @@ Applied BERTopic, Gensim LDA, and BERT emotion analysis to customer reviews to u
 ---
 
 ### 🧩 Customer Segmentation with Clustering
-Segmented e-commerce customers using Recency, Frequency, Monetary (RFM) and cost-based features to inform marketing strategy.  
+Segmented e-commerce customers using Recency, Frequency, and Monetary (RFM) and cost-based features to inform marketing strategy.  
 Compared K-Means and Hierarchical Clustering, visualised group separability with PCA and t-SNE.
 
 🔹 *Tech:* Python, Scikit-learn, Matplotlib  
@@ -62,7 +63,26 @@ Compared K-Means and Hierarchical Clustering, visualised group separability with
 
 ---
 
+### 🌳 Decision Trees for Classification
+Built and evaluated Decision Tree and Random Forest models to classify tabular data, focusing on interpretability and feature importance.  
+Compared performance metrics to explore overfitting and model generalisation.
+
+🔹 *Tech:* Python, Scikit-learn, Matplotlib  
+🔹 *Skills:* Supervised learning, feature importance, model evaluation
+
+---
+
+### 📈 Neural Network Regression
+Developed and tuned a feed-forward neural network for regression tasks.  
+Explored learning rate effects, activation functions, and loss convergence using MAE and RMSE as evaluation metrics.
+
+🔹 *Tech:* Python, TensorFlow, Scikit-learn  
+🔹 *Skills:* Neural networks, regression analysis, model optimisation
+
+---
+
 ## 🛠️ Tools and Technologies
+
 **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, Keras), SQL  
 **Visualisation:** Power BI, Tableau, Matplotlib, Seaborn  
 **Workflow:** Jupyter, Colab, Git, Power Query  
@@ -71,6 +91,7 @@ Compared K-Means and Hierarchical Clustering, visualised group separability with
 ---
 
 ## 📫 Connect with Me
+
 💼 [LinkedIn](https://www.linkedin.com/in/danyal-hussain-795648258/)  
 📂 [GitHub Portfolio](https://github.com/ds-hus0601/DanyalHussain-Portfolio)  
 📧 [Email](mailto:ds.hus0601@gmail.com)
