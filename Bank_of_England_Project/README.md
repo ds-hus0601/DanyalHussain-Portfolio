@@ -1,3 +1,6 @@
+> 🧩 This project was completed as part of a group during the University of Cambridge Data Science & Machine Learning Career Accelerator (2025).  
+> The materials here reflect my individual contribution to the analysis and visualisation components.
+
 # Bank of England – Financial Sentiment & Prudential Metrics
 
 ### Objective
